@@ -19,7 +19,7 @@ server.py contains contributions from:
 * Jackson Z Chang
 * Mandy Meindersma
 * Abdurahman Hersi(abdurahm)
-* Hamid Yusuf(hyusuf)
+* Hamdi Yusuf(hyusuf)
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
